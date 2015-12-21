@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "experimentalDecorators": true,
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "outDir": "dist",
+        "rootDir": ".",
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules",
+        "bin"
+    ]
+}
